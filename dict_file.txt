@@ -1,0 +1,15 @@
+Hello|Salom
+Bye|Xayr
+Monkey|Maymun
+Gap|Oraliq
+Halal|Halol
+Ok|Yaxshi
+Fuck|Lanati
+Message|Xabar
+Pet|Uy Hayvoni
+Igfe|Firnf
+New|Yangi
+Fish|Baliq
+Name|Ism
+Beach|Sohil
+Add|Qosh
